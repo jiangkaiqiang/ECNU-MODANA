@@ -1,0 +1,18 @@
+.chart {
+-fx-padding: 10px;
+}
+.chart-content {
+-fx-padding: 30px;
+}
+.chart-symbol { /* solid circle */
+-fx-background-color: #f9d900;
+-fx-background-radius: 1px;
+-fx-padding: 5px;
+}
+.chart-series-line {
+-fx-stroke-width: 1px;
+-fx-effect: null;
+}
+.default-color0.chart-series-line { -fx-stroke: #e9967a; }
+.default-color1.chart-series-line { -fx-stroke: #f0e68c; }
+.default-color2.chart-series-line { -fx-stroke: #dda0dd; }
